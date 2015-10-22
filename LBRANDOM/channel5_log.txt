@@ -1,0 +1,13 @@
+Task  10 comes at 1445521447.30, and ends at 1445521468.82, response time is      21.52
+Task  18 comes at 1445521487.34, and ends at 1445521532.82, response time is      45.48
+Task  19 comes at 1445521492.34, and ends at 1445521548.30, response time is      55.96
+Task  22 comes at 1445521507.35, and ends at 1445521568.15, response time is      60.79
+Task  25 comes at 1445521522.37, and ends at 1445521583.28, response time is      60.91
+Task  32 comes at 1445521557.41, and ends at 1445521624.62, response time is      67.21
+Task  33 comes at 1445521562.41, and ends at 1445521633.02, response time is      70.61
+Task  38 comes at 1445521587.43, and ends at 1445521684.04, response time is      96.60
+Task  42 comes at 1445521607.46, and ends at 1445521716.65, response time is     109.20
+Task  43 comes at 1445521612.46, and ends at 1445521721.18, response time is     108.72
+Task  44 comes at 1445521617.47, and ends at 1445521724.36, response time is     106.89
+Task  47 comes at 1445521632.48, and ends at 1445521729.96, response time is      97.48
+Task  48 comes at 1445521637.49, and ends at 1445521730.69, response time is      93.20
